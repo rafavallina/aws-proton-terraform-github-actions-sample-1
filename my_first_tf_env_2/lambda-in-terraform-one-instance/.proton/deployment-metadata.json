@@ -1,0 +1,11 @@
+{
+  "deploymentId" : "d3510c70-8f79-401b-976c-70e714c7bf75",
+  "isResourceDeleted" : false,
+  "resourceMetadata" : {
+    "arn" : "arn:aws:proton:us-east-1:987544922694:service/lambda-in-terraform/service-instance/one-instance",
+    "templateArn" : "arn:aws:proton:us-east-1:987544922694:service-template/sample-lambda-function-template",
+    "templateMajorVersion" : "1",
+    "templateMinorVersion" : "0",
+    "environmentArn" : "arn:aws:proton:us-east-1:987544922694:environment/my_first_tf_env_2"
+  }
+}
