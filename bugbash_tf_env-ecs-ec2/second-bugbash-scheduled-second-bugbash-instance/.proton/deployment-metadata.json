@@ -1,0 +1,11 @@
+{
+  "deploymentId" : "e87f8cf3-6755-41ed-a15f-6d65ec446dbc",
+  "isResourceDeleted" : false,
+  "resourceMetadata" : {
+    "arn" : "arn:aws:proton:us-east-1:987544922694:service/second-bugbash-scheduled/service-instance/second-bugbash-instance",
+    "templateArn" : "arn:aws:proton:us-east-1:987544922694:service-template/scheduled-ecs-ec2-svc",
+    "templateMajorVersion" : "1",
+    "templateMinorVersion" : "1",
+    "environmentArn" : "arn:aws:proton:us-east-1:987544922694:environment/bugbash_tf_env-ecs-ec2"
+  }
+}
