@@ -1,0 +1,11 @@
+{
+  "deploymentId" : "fd1ddb86-8586-40b4-9c61-1d2d3e0d46fd",
+  "isResourceDeleted" : false,
+  "resourceMetadata" : {
+    "arn" : "arn:aws:proton:us-east-1:987544922694:service/ecs-ping-sns/service-instance/ecs-ping-sns-instance-1",
+    "templateArn" : "arn:aws:proton:us-east-1:987544922694:service-template/scheduled-ecs-ec2-svc",
+    "templateMajorVersion" : "1",
+    "templateMinorVersion" : "0",
+    "environmentArn" : "arn:aws:proton:us-east-1:987544922694:environment/bugbash_tf_env-ecs-ec2"
+  }
+}
