@@ -1,0 +1,10 @@
+{
+  "deploymentId" : "9a5409ea-5b2b-476b-bdf2-97c442e4ab75",
+  "isResourceDeleted" : false,
+  "resourceMetadata" : {
+    "arn" : "arn:aws:proton:us-east-1:987544922694:environment/bugbash-environment-tf-ecs-ec2",
+    "templateArn" : "arn:aws:proton:us-east-1:987544922694:environment-template/ecs-ec2-env",
+    "templateMajorVersion" : "1",
+    "templateMinorVersion" : "0"
+  }
+}
