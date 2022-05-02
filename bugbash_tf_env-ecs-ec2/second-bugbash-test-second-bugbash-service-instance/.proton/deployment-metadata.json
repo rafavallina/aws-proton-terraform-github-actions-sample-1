@@ -1,6 +1,6 @@
 {
-  "deploymentId" : "c80ee698-80b6-4eb8-86f0-cf48b9fcb75c",
-  "isResourceDeleted" : false,
+  "deploymentId" : "<proton-resource-deleted>",
+  "isResourceDeleted" : true,
   "resourceMetadata" : {
     "arn" : "arn:aws:proton:us-east-1:987544922694:service/second-bugbash-test/service-instance/second-bugbash-service-instance",
     "templateArn" : "arn:aws:proton:us-east-1:987544922694:service-template/worker-ecs-ec2-svc",
