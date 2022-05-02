@@ -1,0 +1,10 @@
+{
+  "deploymentId" : "cfbe50bc-eded-45fc-95f9-4529f46b1fa3",
+  "isResourceDeleted" : false,
+  "resourceMetadata" : {
+    "arn" : "arn:aws:proton:us-east-1:987544922694:service/second-bugbash-test/pipeline",
+    "templateArn" : "arn:aws:proton:us-east-1:987544922694:service-template/worker-ecs-ec2-svc",
+    "templateMajorVersion" : "1",
+    "templateMinorVersion" : "0"
+  }
+}
