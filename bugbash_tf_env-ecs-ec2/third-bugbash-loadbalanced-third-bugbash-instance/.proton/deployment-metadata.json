@@ -1,0 +1,11 @@
+{
+  "deploymentId" : "abea6fb5-8e63-46d4-ace2-3e67d6c3e430",
+  "isResourceDeleted" : false,
+  "resourceMetadata" : {
+    "arn" : "arn:aws:proton:us-east-1:987544922694:service/third-bugbash-loadbalanced/service-instance/third-bugbash-instance",
+    "templateArn" : "arn:aws:proton:us-east-1:987544922694:service-template/load-balanced-ecs-ec2-svc",
+    "templateMajorVersion" : "1",
+    "templateMinorVersion" : "1",
+    "environmentArn" : "arn:aws:proton:us-east-1:987544922694:environment/bugbash_tf_env-ecs-ec2"
+  }
+}
