@@ -4,7 +4,7 @@
         "region": "us-east-1",
         "state_bucket":"aws-proton-terraform-bucket-987544922694"
     },
-    {"bugbash_tf_env-ecs-ec2": {
+    "bugbash_tf_env-ecs-ec2": {
         "role": "arn:aws:iam::987544922694:role/ExampleGithubRole",
         "region": "us-east-1",
         "state_bucket":"aws-proton-terraform-bucket-987544922694"
