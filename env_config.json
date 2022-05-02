@@ -1,7 +1,7 @@
 {
-    "my_first_tf_env_2": {
-        "role": "arn:aws:iam::987544922694:role/ExampleGithubRole",
-        "region": "us-east-1",
-        "state_bucket":"aws-proton-terraform-bucket-987544922694"
+    "REPLACE_ME": {
+        "role": "arn:aws:iam::111111111111:role/REPLACE_ME",
+        "region": "us-west-2",
+        "state_bucket":"REPLACE_ME"
     }
 }
