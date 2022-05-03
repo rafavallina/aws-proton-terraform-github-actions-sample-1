@@ -1,0 +1,11 @@
+{
+  "deploymentId" : "7c718501-a3d0-4c4b-995c-c20600e3051a",
+  "isResourceDeleted" : false,
+  "resourceMetadata" : {
+    "arn" : "arn:aws:proton:us-east-1:987544922694:service/fourth-bugbash-fargate/service-instance/fourth-bugbash-instance",
+    "templateArn" : "arn:aws:proton:us-east-1:987544922694:service-template/backend-fargate-svc",
+    "templateMajorVersion" : "1",
+    "templateMinorVersion" : "0",
+    "environmentArn" : "arn:aws:proton:us-east-1:987544922694:environment/bugbash-tf-env-fargate"
+  }
+}
