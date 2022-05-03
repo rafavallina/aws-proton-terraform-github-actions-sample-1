@@ -1,0 +1,10 @@
+{
+  "deploymentId" : "bbd5e9ab-8dea-4524-8e66-5eb07a64fd20",
+  "isResourceDeleted" : false,
+  "resourceMetadata" : {
+    "arn" : "arn:aws:proton:us-east-1:987544922694:service/second-bugbash-scheduled/pipeline",
+    "templateArn" : "arn:aws:proton:us-east-1:987544922694:service-template/scheduled-ecs-ec2-svc",
+    "templateMajorVersion" : "1",
+    "templateMinorVersion" : "2"
+  }
+}
