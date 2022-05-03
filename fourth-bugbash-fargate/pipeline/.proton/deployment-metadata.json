@@ -1,0 +1,10 @@
+{
+  "deploymentId" : "49727678-82c7-44d7-bb33-78b3fe5351c4",
+  "isResourceDeleted" : false,
+  "resourceMetadata" : {
+    "arn" : "arn:aws:proton:us-east-1:987544922694:service/fourth-bugbash-fargate/pipeline",
+    "templateArn" : "arn:aws:proton:us-east-1:987544922694:service-template/backend-fargate-svc",
+    "templateMajorVersion" : "1",
+    "templateMinorVersion" : "0"
+  }
+}
