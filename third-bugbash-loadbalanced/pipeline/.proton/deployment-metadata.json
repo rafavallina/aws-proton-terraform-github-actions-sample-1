@@ -1,0 +1,10 @@
+{
+  "deploymentId" : "b628f2e0-11b1-4fb0-ad9a-49845b72d1ab",
+  "isResourceDeleted" : false,
+  "resourceMetadata" : {
+    "arn" : "arn:aws:proton:us-east-1:987544922694:service/third-bugbash-loadbalanced/pipeline",
+    "templateArn" : "arn:aws:proton:us-east-1:987544922694:service-template/load-balanced-ecs-ec2-svc",
+    "templateMajorVersion" : "1",
+    "templateMinorVersion" : "1"
+  }
+}
