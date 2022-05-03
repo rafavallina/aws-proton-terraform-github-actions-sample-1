@@ -1,0 +1,10 @@
+{
+  "deploymentId" : "11b2aa25-844b-46af-923c-eae48c367042",
+  "isResourceDeleted" : false,
+  "resourceMetadata" : {
+    "arn" : "arn:aws:proton:us-east-1:987544922694:environment/bugbash-tf-env-fargate",
+    "templateArn" : "arn:aws:proton:us-east-1:987544922694:environment-template/fargate-env",
+    "templateMajorVersion" : "1",
+    "templateMinorVersion" : "0"
+  }
+}
