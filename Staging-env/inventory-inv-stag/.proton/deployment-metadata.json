@@ -1,0 +1,11 @@
+{
+  "deploymentId" : "4f7e797f-53b9-4944-aa10-2baafdf583be",
+  "isResourceDeleted" : false,
+  "resourceMetadata" : {
+    "arn" : "arn:aws:proton:us-east-1:296906454535:service/inventory/service-instance/inv-stag",
+    "templateArn" : "arn:aws:proton:us-east-1:296906454535:service-template/backend-fargate-svc",
+    "templateMajorVersion" : "1",
+    "templateMinorVersion" : "0",
+    "environmentArn" : "arn:aws:proton:us-east-1:296906454535:environment/Staging-env"
+  }
+}
