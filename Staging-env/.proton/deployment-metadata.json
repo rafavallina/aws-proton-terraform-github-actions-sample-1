@@ -1,0 +1,10 @@
+{
+  "deploymentId" : "8419bef1-6691-4ccc-8ff3-93b3cca9cf91",
+  "isResourceDeleted" : false,
+  "resourceMetadata" : {
+    "arn" : "arn:aws:proton:us-east-1:296906454535:environment/Staging-env",
+    "templateArn" : "arn:aws:proton:us-east-1:296906454535:environment-template/fargate-env",
+    "templateMajorVersion" : "1",
+    "templateMinorVersion" : "0"
+  }
+}
