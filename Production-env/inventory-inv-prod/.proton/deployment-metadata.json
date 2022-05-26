@@ -1,0 +1,11 @@
+{
+  "deploymentId" : "8a479c63-910a-482d-8909-c750b7bc7495",
+  "isResourceDeleted" : false,
+  "resourceMetadata" : {
+    "arn" : "arn:aws:proton:us-east-1:296906454535:service/inventory/service-instance/inv-prod",
+    "templateArn" : "arn:aws:proton:us-east-1:296906454535:service-template/backend-fargate-svc",
+    "templateMajorVersion" : "1",
+    "templateMinorVersion" : "0",
+    "environmentArn" : "arn:aws:proton:us-east-1:296906454535:environment/Production-env"
+  }
+}
