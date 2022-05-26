@@ -1,7 +1,7 @@
 {
     "*": {
-        "role": "arn:aws:iam::987544922694:role/ExampleGithubRole",
+        "role": "arn:aws:iam::296906454535:role/ExampleGithubRole",
         "region": "us-east-1",
-        "state_bucket":"aws-proton-terraform-bucket-987544922694"
+        "state_bucket":"aws-proton-terraform-bucket-296906454535"
     }  
 }
