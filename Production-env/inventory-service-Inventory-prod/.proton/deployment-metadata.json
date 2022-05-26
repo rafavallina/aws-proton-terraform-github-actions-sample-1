@@ -1,0 +1,11 @@
+{
+  "deploymentId" : "503eb732-5809-4031-9883-0ae2a9c1852e",
+  "isResourceDeleted" : false,
+  "resourceMetadata" : {
+    "arn" : "arn:aws:proton:us-east-1:296906454535:service/inventory-service/service-instance/Inventory-prod",
+    "templateArn" : "arn:aws:proton:us-east-1:296906454535:service-template/load-balanced-fargate-svc",
+    "templateMajorVersion" : "1",
+    "templateMinorVersion" : "0",
+    "environmentArn" : "arn:aws:proton:us-east-1:296906454535:environment/Production-env"
+  }
+}
