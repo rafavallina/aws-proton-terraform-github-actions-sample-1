@@ -1,0 +1,10 @@
+{
+  "deploymentId" : "a9589b3f-c92f-46dc-9b63-499a610eb901",
+  "isResourceDeleted" : false,
+  "resourceMetadata" : {
+    "arn" : "arn:aws:proton:us-east-1:296906454535:service/inventory/pipeline",
+    "templateArn" : "arn:aws:proton:us-east-1:296906454535:service-template/backend-fargate-svc",
+    "templateMajorVersion" : "1",
+    "templateMinorVersion" : "0"
+  }
+}
