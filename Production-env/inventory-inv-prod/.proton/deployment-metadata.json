@@ -1,5 +1,5 @@
 {
-  "deploymentId" : "8a479c63-910a-482d-8909-c750b7bc7495",
+  "deploymentId" : "28bf29a8-c96c-480d-8681-0fa1a5f77552",
   "isResourceDeleted" : false,
   "resourceMetadata" : {
     "arn" : "arn:aws:proton:us-east-1:296906454535:service/inventory/service-instance/inv-prod",
