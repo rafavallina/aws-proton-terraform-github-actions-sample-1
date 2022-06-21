@@ -1,0 +1,11 @@
+{
+  "deploymentId" : "9926828f-860e-4ed4-ae12-e5c325760cdc",
+  "isResourceDeleted" : false,
+  "resourceMetadata" : {
+    "arn" : "arn:aws:proton:us-east-1:296906454535:service/test-124/service-instance/test-no-pipeline-0621",
+    "templateArn" : "arn:aws:proton:us-east-1:296906454535:service-template/load-balanced-fargate-svc-no-pipeline",
+    "templateMajorVersion" : "1",
+    "templateMinorVersion" : "0",
+    "environmentArn" : "arn:aws:proton:us-east-1:296906454535:environment/Staging-env"
+  }
+}
