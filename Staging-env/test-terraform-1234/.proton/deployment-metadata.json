@@ -1,0 +1,11 @@
+{
+  "deploymentId" : "347fe7c9-8e6e-4ca6-87db-38add809d0b5",
+  "isResourceDeleted" : false,
+  "resourceMetadata" : {
+    "arn" : "arn:aws:proton:us-east-1:296906454535:service/test-terraform/service-instance/1234",
+    "templateArn" : "arn:aws:proton:us-east-1:296906454535:service-template/load-balanced-fargate-svc",
+    "templateMajorVersion" : "1",
+    "templateMinorVersion" : "0",
+    "environmentArn" : "arn:aws:proton:us-east-1:296906454535:environment/Staging-env"
+  }
+}
